@@ -1,2 +1,4 @@
-# education
-Support for private lessons
+# Education
+
+## Support for private lessons
+

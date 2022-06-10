@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Numere naturale}{2}
+\contentsline {subsection}{\numberline {1.1}Scrierea si citirea numerelor naturale}{2}
+\contentsline {subsection}{\numberline {1.2}Compararea, ordonarea si aproximarea numerelor naturale}{3}
+\contentsline {section}{\numberline {2}Operatii cu numere naturale}{4}
+\contentsline {subsection}{\numberline {2.1}Adunarea numerelor naturale}{4}
+\contentsline {subsection}{\numberline {2.2}Scaderea numerelor naturale}{4}
+\contentsline {subsection}{\numberline {2.3}Inmultirea numerelor naturale}{4}
+\contentsline {subsection}{\numberline {2.4}Impartirea numerelor naturale}{4}
+\contentsline {subsection}{\numberline {2.5}Teorema impartirii cu rest}{4}
+\contentsline {subsection}{\numberline {2.6}Ordinea efectuarii operatiilor}{4}
+\contentsline {subsection}{\numberline {2.7}Ridicarea la putere a unui numar natural}{4}
+\contentsline {subsection}{\numberline {2.8}Compararea si ordonarea puterilor}{4}
+\contentsline {subsection}{\numberline {2.9}Operatii cu puteri}{4}
+\contentsline {section}{\numberline {3}Divizivilitatea numerelor naturale}{4}
+\contentsline {subsection}{\numberline {3.1}Divizor}{4}
+\contentsline {subsection}{\numberline {3.2}Multiplu}{4}
+\contentsline {subsection}{\numberline {3.3}Divizibilitatea 2,3,5,10}{4}
+\contentsline {section}{\numberline {4}Ecuatii si inecuatii}{4}
+\contentsline {subsection}{\numberline {4.1}Media aritmetica}{4}
+\contentsline {subsection}{\numberline {4.2}Ecuatii}{4}
+\contentsline {subsection}{\numberline {4.3}Inecuatii}{4}
+\contentsline {section}{\numberline {5}Multimi}{4}
+\contentsline {subsection}{\numberline {5.1}Multime}{4}
+\contentsline {subsection}{\numberline {5.2}Relatii intre multimi}{4}
+\contentsline {subsection}{\numberline {5.3}Multimi finite si multimi infinite}{4}
+\contentsline {subsection}{\numberline {5.4}Operatii cu multimi}{4}
+\contentsline {section}{\numberline {6}Fractii ordinare}{4}
+\contentsline {subsection}{\numberline {6.1}Fractie}{4}
+\contentsline {subsection}{\numberline {6.2}Procent}{4}
+\contentsline {subsection}{\numberline {6.3}Fractii echivalente}{4}
+\contentsline {subsection}{\numberline {6.4}Amplificarea si simplificarea fractiilor}{4}
+\contentsline {subsection}{\numberline {6.5}Adunarea si scaderea unor fractii ordinare}{4}
