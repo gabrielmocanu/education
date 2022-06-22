@@ -10,10 +10,12 @@ void foo1(int xval)
 {
     int x;
     x = xval;
+    printf("%p\n", &x);
 }
 void foo2(int dummy)
 {
     int y;
+    printf("%p\n", &y);
 
 }
 int main()
